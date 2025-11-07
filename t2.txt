@@ -1,9 +1,9 @@
-vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?type=ws&host=m.vk.com&path=/panika&security=none#1  
-vless://f1d0fff5-2a46-4d13-bf47-0c1b431363a0@45.149.235.82:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=st4-22.vk.com&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&sid=418ed2065470c8fa&spx=/#2  
+vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?type=ws&host=m.vk.com&path=/panika&security=none#1[mts-bank]
+vless://f1d0fff5-2a46-4d13-bf47-0c1b431363a0@45.149.235.82:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=st4-22.vk.com&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&sid=418ed2065470c8fa&spx=/#2[mts-bank]
 vless://f1d0fff5-2a46-4d13-bf47-0c1b431363a0@109.122.199.183:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=videowebrtc.ok.ru&pbk=HDS2Mh00WFXWp6G1O5UEncj2_LF39cCZa6WZtVCBEWc&sid=22d3d47046fa2fa3&spx=/#3  
 vless://f1d0fff5-2a46-4d13-bf47-0c1b431363a0@89.169.13.75:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=st4-22.vk.com&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&sid=73a7f33d0731e53c&spx=/#4  
 vless://b41a734c-e6d1-48c5-8677-c52ba40ec454@third-legend.atlanta-internet.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=static.rutube.ru&pbk=a_LbD81zTm6S8JtU98gY00xqsPOEucV4k0OEx0LOwgQ&sid=ffffffffff&spx=/#5  
-vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?type=ws&host=m.vk.com&path=/&security=none#6  
+vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?type=ws&host=m.vk.com&path=/&security=none#6[mts-bank] 
 vless://5e92c77b-3a06-4b83-b5b2-e79a5152cdec@147.45.234.51:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.vk.com&pbk=GjFTD96cethyxcRuToHUwv741QoDB9-V7LRsxEh6jTU&sid=ab1cd2&spx=/#7  
 vless://cc0e602f-8a09-4136-b24b-601b829a8417@147.45.234.51:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.vk.com&pbk=GjFTD96cethyxcRuToHUwv741QoDB9-V7LRsxEh6jTU&sid=ab1cd2&spx=/#8  
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?type=ws&host=m.vk.com&path=/vless/&security=none#9  
